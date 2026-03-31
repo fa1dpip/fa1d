@@ -1,3 +1,9 @@
-# PHP User Management Task
+# User Management System
 
-Repository initialized for the practical PHP OOP assignment with sessions and database storage.
+This repository contains the PHP practical assignment implementation with sessions, OOP structure, and SQLite-backed storage.
+
+## Run
+
+```powershell
+C:\php\php.exe -c php.ini -S 127.0.0.1:8000 -t public
+```
